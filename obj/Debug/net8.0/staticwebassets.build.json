@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tvZ2wuze8Xycy61bfwpJ0tBHxDhZADV0whtCBLnzsIM=",
+  "Source": "httprequest",
+  "BasePath": "_content/httprequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
