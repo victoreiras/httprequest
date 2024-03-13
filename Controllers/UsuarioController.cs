@@ -32,4 +32,16 @@ public class UsuarioController : ControllerBase
                 empresaId = int.Parse(header.Value.ToString());
         }
     }
+
+    [HttpGet("realizarChamadaHttp")]
+    public IActionResult RealizarChamadaHttp()
+    {
+        using(var client = new HttpClient())
+        {
+            var endpoint = new Uri("https://jsonplaceholder.typicode.com/posts");
+            var result = client.GetAsync(endpoint).Result;
+        
+            return Ok(result);
+        }
+    }
 }

@@ -31,3 +31,4 @@ c:\Users\Dell\Desktop\Dev\httprequest\obj\Debug\net8.0\refint\httprequest.dll
 c:\Users\Dell\Desktop\Dev\httprequest\obj\Debug\net8.0\httprequest.pdb
 c:\Users\Dell\Desktop\Dev\httprequest\obj\Debug\net8.0\httprequest.genruntimeconfig.cache
 c:\Users\Dell\Desktop\Dev\httprequest\obj\Debug\net8.0\ref\httprequest.dll
+c:\Users\Dell\Desktop\Dev\httprequest\obj\Debug\net8.0\httprequest.sourcelink.json
