@@ -38,8 +38,11 @@ public class UsuarioController : ControllerBase
     {
         using(var client = new HttpClient())
         {
-            var endpoint = new Uri("https://jsonplaceholder.typicode.com/posts");
-            var result = client.GetAsync(endpoint).Result;
+            client.DefaultRequestHeaders.Add("Authorization", "value");
+            client.DefaultRequestHeaders.Add("User-Agent", "Value");
+            client.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/posts");
+
+            var result = client.GetAsync(client.BaseAddress).Result;
         
             return Ok(result);
         }

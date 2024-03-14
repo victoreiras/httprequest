@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj": {
+    "C:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj",
         "projectName": "httprequest",
-        "projectPath": "c:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\Dev\\httprequest\\httprequest.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell\\Desktop\\Dev\\httprequest\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\Dev\\httprequest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
